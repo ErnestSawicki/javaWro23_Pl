@@ -6,5 +6,6 @@ public class PowMain {
 
         System.out.println(two.toPowerOfTwo(4));
         System.out.println(two.powRecursion(4));
+        System.out.println(two.powBite(4));
     }
 }

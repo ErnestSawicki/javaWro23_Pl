@@ -16,4 +16,8 @@ public class TwoToPower {
         return powRecursion(power -1) *2;
     }
 
+    public int powBite(int pow){
+        return 1<<pow;
+    }
+
 }
